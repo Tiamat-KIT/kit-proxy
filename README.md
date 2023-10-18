@@ -12,6 +12,11 @@
 $ curl -L "https://raw.githubusercontent.com/101ta28/kit-proxy/main/install.sh" | bash
 ```
 
+### 学内でのインストール方法（未検証）
+```bash
+curl --proxy http://wwwproxy.kanazawa-it.ac.jp:8080/ -L "https://raw.githubusercontent.com/101ta28/kit-proxy/main/install.sh" | bash
+```
+
 ## 使い方
 
 ```bash
